@@ -1,0 +1,34 @@
+    1  ps
+    2  exit
+    3  ps
+    4  bash
+    5  sh
+    6  git init
+    7  pwd
+    8  ls -a
+    9  ls
+   10  git status
+   11  git add .
+   12  git status
+   13  pwd
+   14  git commit -m "sample commited"
+   15  git remote origin "https://github.com/Raghuveer1971/myrepo.git"
+   16  git commit -m "sample commited"
+   17  git commit -m "sample commited"
+   18  git status
+   19  git remote add origin "nch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newu
+   20  git remote add origin "https://github.com/Raghuveer1971/myrepo.git"
+   21  git commit -m "sample file commited"
+   22  git log
+   23  git config --global user.email "chgithb1@gmail.com"
+   24  git commit -m "sample file commited"
+   25  git status
+   26  git add -A
+   27  git status
+   28  git commit -m "multiple files commited"
+   29  git status
+   30  git add -A
+   31  git status
+   32  history>comds
